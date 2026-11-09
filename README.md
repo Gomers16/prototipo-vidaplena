@@ -52,6 +52,15 @@ Un único archivo `index.html` (HTML, CSS y JavaScript, sin librerías externas)
 5. **Prototipo.** Se programó (en lugar de enlazar imágenes) para que la búsqueda, los filtros, los favoritos y los hábitos funcionen de verdad y se pueda comprobar el flujo completo.
 6. **Revisión.** Se consultó la documentación de MDN sobre accesibilidad; de ahí se retiró `aria-pressed` de los botones cuya etiqueta cambia y se mantuvo `aria-checked` en las casillas del seguimiento semanal.
 
+## Herramientas y recursos
+
+- **HTML, CSS y JavaScript** para el prototipo, el wireframe y el mockup.
+- **MDN Web Docs** (recurso recomendado en la guía de la actividad) como documentación de referencia: se consultaron las páginas de `aria-pressed`, el rol `checkbox` y `prefers-color-scheme`, y de ahí salieron correcciones concretas de accesibilidad.
+- **WCAG 2.2 (W3C)** para calcular el contraste de textos y bordes.
+- **Heurísticas de usabilidad de Nielsen** como criterio de revisión.
+- **GitHub Pages** para publicar el prototipo.
+- **Barlow y Barlow Condensed** (tipografías abiertas) incluidas en el archivo.
+
 ## Limitaciones
 
 - No hay servidor: no se almacenan contraseñas ni datos reales.
